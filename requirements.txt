@@ -1,0 +1,44 @@
+# --- Core Engineering & Linting ---
+black==24.3.0
+flake8==7.0.0
+pytest==8.1.1
+python-dotenv==1.0.1
+
+# --- Data Science & Visualization (Modules 04, 05) ---
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+scipy==1.12.0
+
+# --- Web Frameworks (Module 04, 11) ---
+django==5.0.3
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.6.4
+
+# --- Machine Learning (Module 06) ---
+scikit-learn==1.4.1.post1
+
+# --- Database Drivers (Modules 08, 09) ---
+mysql-connector-python==8.3.0
+pymongo==4.6.2
+sqlalchemy==2.0.28
+
+# --- Deep Learning (Module 10) ---
+# Note: For GPU support, follow specific instructions at pytorch.org
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+
+# --- Generative AI & RAG (Module 13) ---
+langchain==0.1.12
+langchain-community==0.0.28
+openai==1.14.0
+chromadb==0.4.24
+sentence-transformers==2.6.0
+tiktoken==0.6.0
+
+# --- MLOps & Observability (Module 14) ---
+ragas==0.1.5
+langsmith==0.1.31
+weights-and-biases==0.16.5
