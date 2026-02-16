@@ -8,6 +8,6 @@ I strictly follow authoritative engineering resources. The code in this reposito
 
 | Book Title | Author | Global Source |
 | :--- | :--- | :--- |
-| **Python Crash Course** | Eric Matthes  [Amazon](https://www.amazon.com/Python-Crash-Course-3rd-Introduction/dp/1593279280) |
+| **Python Crash Course** | Eric Matthes | [Amazon](https://www.amazon.com/Python-Crash-Course-3rd-Introduction/dp/1593279280) |
 | **Clean Code** | Robert C. Martin  | [Amazon](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) |
 | **Grokking Algorithms** | Aditya Bhargava| [Manning](https://www.manning.com/books/grokking-algorithms) |
